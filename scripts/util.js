@@ -19,11 +19,11 @@ const getColor = score => {
 };
 
 let CHECK_WWW = true;
-
+let siteurl = 'https://blink-twice.github.io/scangov_ind'
 let cache, updateTime, updateTimeReq;
 const getData = async (file) => {
     if (!updateTimeReq) {
-        updateTimeReq = fetch('/data/updated_time').then(res=>res.text());
+        updateTimeReq = fetch(siteurl + '/data/updated_time').then(res=>res.text());
         updateTime = new Date(parseInt(await updateTimeReq));
     }
     else
@@ -49,7 +49,7 @@ const getData = async (file) => {
         }
 
 
-        file = '/data/' + file + '.json';
+        file = siteurl + '/data/' + file + '.json';
 
         let data = await cache.match(file);
         if (!data) {
@@ -63,7 +63,7 @@ const getData = async (file) => {
     }
     else {
         // Cache API isn't available so just make a request
-        return await (await fetch('/data/' + file + '.json')).json();
+        return await (await fetch(siteurl + '/data/' + file + '.json')).json();
     }
 };
 
