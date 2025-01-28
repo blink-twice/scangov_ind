@@ -23,7 +23,7 @@ let CHECK_WWW = true;
 let cache, updateTime, updateTimeReq;
 const getData = async (file) => {
     if (!updateTimeReq) {
-        updateTimeReq = fetch('{{ site.baseurl }}/data/updated_time').then(res=>res.text());
+        updateTimeReq = fetch('/data/updated_time').then(res=>res.text());
         updateTime = new Date(parseInt(await updateTimeReq));
     }
     else
@@ -49,7 +49,7 @@ const getData = async (file) => {
         }
 
 
-        file = '{{ site.baseurl }}/data/' + file + '.json';
+        file = '/data/' + file + '.json';
 
         let data = await cache.match(file);
         if (!data) {
@@ -63,7 +63,7 @@ const getData = async (file) => {
     }
     else {
         // Cache API isn't available so just make a request
-        return await (await fetch('{{ site.baseurl }}/data/' + file + '.json')).json();
+        return await (await fetch('/data/' + file + '.json')).json();
     }
 };
 
