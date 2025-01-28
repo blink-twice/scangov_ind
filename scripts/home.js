@@ -7,7 +7,8 @@ document.getElementById(field + '-radio').checked = true;
 
 const search = params.get('search') || '';
 
-const MULTI_LEVEL = true;
+// Removed but need to add back
+const MULTI_LEVEL = false;
 let level;
 if (MULTI_LEVEL) {
     level = params.get('level');
