@@ -1,0 +1,44 @@
+domain,agency,status,hsts,max_age,expire_time,csp,x_content_type_options,security_txt
+cipmcjk.nic.in,"Central Integrated Pest Management Centre (CIPMC)",500,false,-1,-1,false,false,false
+ciae.nic.in,"Central Institute of Agricultural Engineering (CIAE)",500,false,-1,-1,false,false,false
+cihner.gov.in,"Central Institute of Horticulture - Nagaland",200,true,31536000,1738100163419,true,true,false
+csgrc.res.in,"Central Sericultural Germplasm Resources Centre (CSGRC) - Hosur - Tamilnadu",200,false,-1,-1,false,false,false
+cibrc.gov.in,"Central Insecticides Board and Registration Committee",500,false,-1,-1,false,false,false
+cfqcti.dacnet.nic.in,"Central Fertilizer Quality Control and Training Institute",500,false,-1,-1,false,false,false
+fmttibudni.gov.in,"Central Farm Machinery Training and Testing Institute - Budni",500,false,-1,-1,false,false,false
+cish.res.in,"Central Institute for Subtropical Horticulture (CISH) - Lucknow - Uttar Pradesh",500,false,-1,-1,false,false,false
+cau.ac.in,"Central Agricultural University - Imphal - Manipur",200,false,-1,-1,false,false,false
+spicebioinfo.res.in,"Bioinformatics Centre - Indian Institute of Spices Research (IISR) - Calicut",500,false,-1,-1,false,false,false
+jkapd.nic.in,"Agriculture Production Department - Jammu and Kashmir",200,false,-1,-1,false,false,false
+krishiutpadan.up.nic.in,"Agriculture Production Commissioner - Uttar Pradesh",500,false,-1,-1,false,false,false
+agmarknet.gov.in,"Agriculture Marketing Information System Network (AGMARKNET)",200,true,31536000,1738100163419,true,true,false
+cgwb.gov.in,"Central Ground Water Board - Northern Region - Lucknow",200,true,31536000,1738100163419,false,false,false
+agri.gujarat.gov.in,"Agriculture - Farmers Welfare and Cooperation Department - Gujarat",302,false,-1,-1,false,true,false
+agriculture.uk.gov.in,"Agriculture Department - Uttarakhand",200,true,31536000,1738100163419,false,true,false
+agri.py.gov.in,"Agriculture Department - Puducherry",200,true,31536000,1738100163419,true,true,false
+agringl.nic.in,"Agriculture Department - Nagaland",500,false,-1,-1,false,false,false
+agriculturemizoram.nic.in,"Agriculture Department - Mizoram",200,false,-1,-1,false,false,false
+megagriculture.gov.in,"Agriculture Department - Meghalaya",200,false,-1,-1,true,true,false
+agri.tripura.gov.in,"Agriculture Department - Tripura",200,false,-1,-1,false,false,false
+krishi.rajasthan.gov.in,"Agriculture Department - Krishi - Rajasthan",500,false,-1,-1,false,false,false
+raitamitra.kar.nic.in,"Agriculture Department - Karnataka",500,false,-1,-1,false,false,false
+diragrijmu.nic.in,"Agriculture Department - Jammu and Kashmir",500,false,-1,-1,false,false,false
+hpagriculture.com,"Agriculture Department - Himachal Pradesh",301,false,-1,-1,false,false,false
+agriharyana.gov.in,"Agriculture Department - Haryana",200,false,-1,-1,false,false,false
+krishi.bih.nic.in,"Agriculture Department - Bihar",500,false,-1,-1,false,false,false
+agri.and.nic.in,"Agriculture Department - Andaman and Nicobar",200,true,31536000,1738100163419,false,false,false
+krishi.maharashtra.gov.in,"Agriculture Department - Maharashtra",200,false,-1,-1,false,false,false
+atmakohima.nic.in,"Agricultural Technology Management Agency (ATMA) - Kohima - Nagaland",500,false,-1,-1,false,false,false
+jharkhand.gov.in,"Agriculture - Animal Husbandry and Co-operative Department - Jharkhand",200,false,-1,-1,false,false,false
+atma.gujarat.gov.in,"Agricultural Technology Management Agency (ATMA) Directorate and SAMETI - Gujarat",302,false,-1,-1,true,true,false
+atic-icarneh.nic.in,"Agricultural Technology Information Centre (ATIC)",500,false,-1,-1,false,false,false
+asrb.org.in,"Agricultural Scientists Recruitment Board (ASRB) - New Delhi",200,false,-1,-1,false,false,false
+megapib.nic.in,"Agricultural Planning and Information Bank(APIB) - East Khasi Hills District - Meghalaya",500,false,-1,-1,false,false,false
+imdagrimet.gov.in,"Agricultural Meteorology Division",200,true,31536000,1738100163419,true,true,false
+biotechcommission.kerala.gov.in,"Biotechnology Commission - Kerala",500,false,-1,-1,false,false,false
+krishimaratavahini.kar.nic.in,"Agricultural Marketing Department - Karnataka",500,false,-1,-1,false,false,false
+agrimarketing.telangana.gov.in,"Agricultural Marketing Department - Telangana",500,false,-1,-1,false,false,false
+yas.gov.in," Youth Affairs and Sports",500,true,1000,1738068628419,false,true,false
+jkatma.nic.in,"Agricultural Technology Management Agency (ATMA) - Government of Jammu and Kashmir",500,false,-1,-1,false,false,false
+alabama.gov,"State of Alabama",301,false,-1,-1,false,true,false
+data.gov.in,"Open Government Data Platform India",302,false,-1,-1,true,true,false
