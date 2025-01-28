@@ -5,6 +5,7 @@ org: blink-twice
 org-url: 
 repo: https://github.com/blink-twice/scangov_ind
 rss: 
+website: https://blink-twice.github.io/scangov_ind
 
 # Build settings
 plugins:
