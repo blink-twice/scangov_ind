@@ -1,10 +1,10 @@
-title: ScanGov
+title: ScanGov India
 description: Government digital experience monitor
-url: https://scangov.org
-org: Civic Hacking Agency
-org-url: https://civichackingagency.org
-repo: https://github.com/civichackingagency/scangov
-rss: https://docs.scangov.org/feed.xml
+url: https://blink-twice.github.io/scangov_ind/
+org: blink-twice
+org-url: 
+repo: https://github.com/blink-twice/scangov_ind
+rss: 
 
 # Build settings
 plugins:
@@ -13,12 +13,12 @@ plugins:
   
 # Social
 
-github-url: https://github.com/civichackingagency
-linkedin-url: https://www.linkedin.com/company/civic-hacking-agency
-twitter-url: https://twitter.com/civic_hacking
+github-url: https://github.com/blink-twice
+linkedin-url: 
+twitter-url: 
 
-twitter-username: civic_hacking
-twitter: "@civichacking"
+twitter-username: 
+twitter: 
 
 # Date/time
 date: "%B %-d, %Y"
